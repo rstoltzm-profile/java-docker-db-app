@@ -17,3 +17,8 @@ docker-compose -f docker-compose.app.yaml build
 docker-compose -f docker-compose.app.yaml up -d
 docker-compose -f docker-compose.app.yaml down
 ```
+
+# console
+```
+PS1='[ubuntu@masked-host] \w\$ '
+```
